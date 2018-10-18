@@ -10,4 +10,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-  $(LOCAL_DIR)/lluvia.mk
+  $(LOCAL_DIR)/lineage_ham.mk
